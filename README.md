@@ -1,2 +1,2 @@
 # Boots
-spring boot/cloud center
+spring boot/cloud project center
