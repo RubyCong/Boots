@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: redis
+      profile: config
+      #label: trunk
+      uri: http://localhost:21210
