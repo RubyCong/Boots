@@ -3,6 +3,8 @@
 
 # setting file
 *.setting
+*.project
+*.DS_Store
 
 # Log file
 *.log
